@@ -1,0 +1,3 @@
+[submodule "fnaservices"]
+	path = fnaservices
+	url = https://github.com/mesunamu/testrepo.git
